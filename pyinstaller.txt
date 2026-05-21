@@ -1,0 +1,1 @@
+pyinstaller --onefile --name QRCodeGen --add-data "Nayuki;Nayuki" main.py

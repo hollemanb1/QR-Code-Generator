@@ -22,3 +22,4 @@ This project allows you to input text or binary data and generate QR codes that 
 ```bash
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
+
